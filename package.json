@@ -1,8 +1,8 @@
 {
   "name": "@dcodemaxz/libsignal-node",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Open Whisper Systems' libsignal for Node.js",
-  "repository": "git+ssh://git@github.com/dcodemaxz/baileys.git",
+  "repository": "git+ssh://git@github.com/dcodemaxz/libsignal-node.git",
   "main": "index.js",
   "keywords": [
     "signal",
